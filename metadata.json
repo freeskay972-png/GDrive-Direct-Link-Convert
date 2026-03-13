@@ -1,0 +1,5 @@
+{
+  "name": "GDrive Direct Link Generator",
+  "description": "Convert Google Drive share links into direct download links.",
+  "requestFramePermissions": []
+}
